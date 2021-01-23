@@ -3,7 +3,7 @@
 #You may assume that the argument is a valid integer value.
 
 def is_odd?(num)
-  num % 2 == 0 ? false : true
+  num % 2 == 1 
 end
 
 
